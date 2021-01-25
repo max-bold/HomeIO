@@ -1,2 +1,2 @@
-# MaxSmartHome
-Software and hardware to build comlete automation system
+# HomIO
+Software and hardware to build comlete [[automation]] system
